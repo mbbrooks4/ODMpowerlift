@@ -1,14 +1,21 @@
 # Final Dataset
 
- Powerlifting_All_Sets_Final.ipynb
+ Powerlifting All Sets Final.ipynb
+ **commented and documented code**
 
 # Individual Datasets
-
+  *Data Sources*
   - CSVs using raw data from Open Powerlifting https://www.openpowerlifting.org/data
-    -  Male Powerlifting 2016, 2017, 2018.ipynb (separate notebooks for each year)
-    -  Female 2016, 2017, 2018.ipynb (separate notebooks for each year)
   - US Census Regions https://en.wikipedia.org/wiki/List_of_regions_of_the_United_States
   - Political Mapping by Red and Blue State https://en.wikipedia.org/wiki/Red_states_and_blue_states
+  
+  *Intermediate Datasets* 
+  subset_female2016_treated.csv
+  subset_female2017_treated.csv
+  subset_female2018_treated.csv
+  subset_male2016_treated.csv
+  subset_male2017_treated.csv
+  subset_male2018_treated.csv
 
 ### Documentation
 
