@@ -26,14 +26,14 @@ DataDocumentationAssessment.md
 
 
 ### Jupyter Notebook
-*IPYNB files* 
+*IPYNB files* [https://github.com/mbbrooks4/ODMpowerlift/tree/mbbrooks4-intermediate]
  - Female Powerlifting 2016.ipynb,
  - Female Powerlifting 2017.ipynb,
  - Female Powerlifting 2018.ipynb,
  - Male Powerlifting 2016.ipynb,
  - Male Powerlifting 2017.ipynb,
  - Male Powerlifting 2018.ipynb
-[https://github.com/mbbrooks4/ODMpowerlift/tree/mbbrooks4-intermediate]
+
 
 ### GitHub Repo
 
