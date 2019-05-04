@@ -49,5 +49,5 @@ Single Slide Powerlifting.pdf
 
 ### Assessment Report
 
-Report is forthcoming.
+Short Assessment Report.pdf
 
