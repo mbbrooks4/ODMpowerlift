@@ -45,7 +45,7 @@ Resume project blurb.pdf
 
 #### Single Summary Slide
 
-Slide is forthcoming.
+Single Slide Powerlifting.pdf
 
 ### Assessment Report
 
