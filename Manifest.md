@@ -1,6 +1,7 @@
 # Final Dataset
 
  Powerlifting All Sets Final.ipynb
+ 
   **commented and documented code**
 
 # Individual Datasets
@@ -10,12 +11,12 @@
   - Political Mapping by Red and Blue State https://en.wikipedia.org/wiki/Red_states_and_blue_states
   
   *Intermediate Datasets* 
-  subset_female2016_treated.csv,
-  subset_female2017_treated.csv,
-  subset_female2018_treated.csv,
-  subset_male2016_treated.csv,
-  subset_male2017_treated.csv,
-  subset_male2018_treated.csv
+  - subset_female2016_treated.csv,
+  - subset_female2017_treated.csv,
+  - subset_female2018_treated.csv,
+  - subset_male2016_treated.csv,
+  - subset_male2017_treated.csv,
+  - subset_male2018_treated.csv
 
 ### Documentation
 
